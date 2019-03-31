@@ -1,2 +1,0 @@
-# Solis
-I dunno yet
