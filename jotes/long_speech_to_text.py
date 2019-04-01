@@ -1,5 +1,6 @@
 # long_speech_to_text.py
 
+# set GOOGLE_APPLICATION_CREDENTIALS=C:\Users\CamCam\Documents\Code\Academic\Hackathon\LAHacks\Solis\jotes\jotes.json
 
 def transcribe_gcs(gcs_uri):
     """Asynchronously transcribes the audio file specified by the gcs_uri."""
